@@ -1,0 +1,6 @@
+T:\evaluacion-2-medidor\AplicacionConsola\MedidoresModel\bin\Debug\MedidoresModel.dll
+T:\evaluacion-2-medidor\AplicacionConsola\MedidoresModel\bin\Debug\MedidoresModel.pdb
+T:\evaluacion-2-medidor\AplicacionConsola\MedidoresModel\obj\Debug\MedidoresModel.csproj.AssemblyReference.cache
+T:\evaluacion-2-medidor\AplicacionConsola\MedidoresModel\obj\Debug\MedidoresModel.csproj.CoreCompileInputs.cache
+T:\evaluacion-2-medidor\AplicacionConsola\MedidoresModel\obj\Debug\MedidoresModel.dll
+T:\evaluacion-2-medidor\AplicacionConsola\MedidoresModel\obj\Debug\MedidoresModel.pdb

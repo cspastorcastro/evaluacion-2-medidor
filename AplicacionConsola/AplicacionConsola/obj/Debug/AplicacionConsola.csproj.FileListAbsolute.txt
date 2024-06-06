@@ -1,0 +1,10 @@
+T:\evaluacion-2-medidor\AplicacionConsola\AplicacionConsola\bin\Debug\AplicacionConsola.exe.config
+T:\evaluacion-2-medidor\AplicacionConsola\AplicacionConsola\bin\Debug\AplicacionConsola.exe
+T:\evaluacion-2-medidor\AplicacionConsola\AplicacionConsola\bin\Debug\AplicacionConsola.pdb
+T:\evaluacion-2-medidor\AplicacionConsola\AplicacionConsola\bin\Debug\MedidoresModel.dll
+T:\evaluacion-2-medidor\AplicacionConsola\AplicacionConsola\bin\Debug\MedidoresModel.pdb
+T:\evaluacion-2-medidor\AplicacionConsola\AplicacionConsola\obj\Debug\AplicacionConsola.csproj.AssemblyReference.cache
+T:\evaluacion-2-medidor\AplicacionConsola\AplicacionConsola\obj\Debug\AplicacionConsola.csproj.CoreCompileInputs.cache
+T:\evaluacion-2-medidor\AplicacionConsola\AplicacionConsola\obj\Debug\Aplicaci.8D154881.Up2Date
+T:\evaluacion-2-medidor\AplicacionConsola\AplicacionConsola\obj\Debug\AplicacionConsola.exe
+T:\evaluacion-2-medidor\AplicacionConsola\AplicacionConsola\obj\Debug\AplicacionConsola.pdb
